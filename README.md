@@ -1,10 +1,10 @@
 # Design-of-an-Automatic-Nurse-Assitant
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/KelvinGitu/Design-of-a-Manual-Shearing-Machine/issues)
-![GitHub repo size](https://img.shields.io/github/repo-size/KelvinGitu/Design-of-a-Manual-Shearing-Machine.svg?color=purple&style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/KelvinGitu/Design-of-a-Manual-Shearing-Machine.svg?style=flat)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/KelvinGitu/Design-of-a-Manual-Shearing-Machine.svg?style=flat)
-![GitHub language count](https://img.shields.io/github/languages/count/KelvinGitu/Design-of-a-Manual-Shearing-Machine.svg?style=flat)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/KelvinGitu/Design-of-an-Automatic-Nurse-Assitant/issues)
+![GitHub repo size](https://img.shields.io/github/repo-size/KelvinGitu/Design-of-an-Automatic-Nurse-Assitant.svg?color=purple&style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/KelvinGitu/Design-of-an-Automatic-Nurse-Assitant.svg?style=flat)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/KelvinGitu/Design-of-an-Automatic-Nurse-Assitant.svg?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/KelvinGitu/Design-of-an-Automatic-Nurse-Assitant.svg?style=flat)
 
 ## This project is done by:
 
@@ -19,7 +19,7 @@ The main mechanical assembly can be seen from here:
 
 The main electrical assembly can be seen from here:
 
-![Electrical Assembly](src/Electrical/wheels/Screenshot 2021-08-08 231304.jpg)
+![Electrical Assembly](src/Electrical/wheels/Screenshot20210808231304.jpg)
 
 In this work, we describe the design of an automated nurse assistant robot to help specifically clinical nurse specialists and family nurse practitioners. This nurse assistant will not replace nurses but will be able to help out with basic services such as delivering drugs to the patient, recording medical history and symptoms, monitor patient health and record signs and symptoms and educate patients about their illness and health. The purpose of our design is to allow doctors and nurses to focus on actual patient care instead of routine tasks. Another purpose of our nurse assistant design is to reduce the strain hospitals face due to a shortage of personnel. We also hope to achieve a comprehensive reduction in the risk health providers face when tackling serious infections such as Coronavirus, Tuberculosis and Ebola. The nurse assistant will take charge of close contact with patients infected with the virus in operations that do not require the input of a doctor or nurse, such as the delivery of drugs and patient education on illness, treatment and medication.
 Our design will be able to achieve the above functions if deployed accordingly. However, in order to meet all client needs, we need to ensure that non-functional requirements are also met. For instance, our design will have storage capacity adequate enough to serve multiple patients in one go. Our design will also be able to run for more than twenty fours hours without failure, enhancing its reliability and availability. Since our design will be applied in an environment not associated with technological minds, we will make sure it is easy to use, giving the nurse and other hospital time an easy experience. This will be accomplished using a user interface. Our design will also be able to have a humanoid face in order to enhance our conversations with the patient. Since our design will be storing user data, it is imperative that this information is secure, which will precipitate our inclusion of encryption into the systems’ software. Database security must meet HIPPA requirements. The size of our design will be small enough to occupy the same space as hospital practitioners and patients without limiting the free movement of people. Most importantly we would want our design to be able to be fabricated locally. This would enhance its widespread adoption into the market, thus making it feasible for most hospitals to include it
