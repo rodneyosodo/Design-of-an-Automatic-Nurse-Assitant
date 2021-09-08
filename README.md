@@ -1,4 +1,4 @@
-# Design-of-an-Automatic-Nurse-Assitant
+# Design of an Automatic Nurse Assitant - Design of Mechatronics Systems 1
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/KelvinGitu/Design-of-an-Automatic-Nurse-Assitant/issues)
 ![GitHub repo size](https://img.shields.io/github/repo-size/KelvinGitu/Design-of-an-Automatic-Nurse-Assitant.svg?color=purple&style=flat)
